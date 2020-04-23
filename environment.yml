@@ -1,0 +1,17 @@
+name: CA-50th-Congressional
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - seaborn
+  - matplotlib
+  - pandas
+  - chartify
+  - bokeh
+  - tkinter
+  - json
+  - geojson
+  - geopandas
+  - folium
+  - branca
+  - datascience
